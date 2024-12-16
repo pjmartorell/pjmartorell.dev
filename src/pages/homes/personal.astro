@@ -13,6 +13,9 @@ import { getPermalink } from '~/utils/permalinks';
 const metadata = {
   title: 'Personal Homepage Demo',
 };
+
+const currentYear = new Date().getFullYear();
+const experienceYears = currentYear - 2014;
 ---
 
 <Layout metadata={metadata}>
@@ -42,14 +45,12 @@ const metadata = {
 
   <Hero
     id="hero"
-    title="Sarah Johnson"
-    tagline="Personal Web Demo"
+    title="Pere Joan Martorell"
+    tagline="Senior Software Engineer"
     actions={[{ variant: 'primary', text: 'Hire me', href: getPermalink('/contact#form') }]}
   >
     <Fragment slot="subtitle">
-      I'm a Graphic Designer passionate about crafting visual stories. <br /> With 5 years of experience and a degree from
-      New York University's School of Design. I infuse vitality into brands and designs, transforming concepts into captivating
-      realities.
+      I'm a seasoned Senior Software Engineer with over {experienceYears} years of experience. <br /> I specialize in Ruby/Rails, delivering high-performance, scalable applications that solve complex challenges. My expertise spans full lifecycle application development, from requirements gathering and design to deployment and long-term support, ensuring reliable and impactful solutions for businesses.
     </Fragment>
   </Hero>
 
