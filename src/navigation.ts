@@ -5,7 +5,6 @@ export const headerData = {
     { text: 'Home', href: '/' },
     { text: 'About', href: '/#about' },
     { text: 'Resume', href: '/#resume' },
-    { text: 'Porfolio', href: '/#porfolio' },
     { text: 'Blog', href: getBlogPermalink() },
   ],
   actions: [{ text: 'Hire me', href: getPermalink('/contact#form') }],
