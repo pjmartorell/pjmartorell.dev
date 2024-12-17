@@ -1,11 +1,10 @@
-import { getPermalink, getAsset, getBlogPermalink } from './utils/permalinks';
+import { getPermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
     { text: 'Home', href: '/' },
     { text: 'About', href: '/#about' },
     { text: 'Resume', href: '/#resume' },
-    { text: 'Blog', href: getBlogPermalink() },
   ],
   actions: [{ text: 'Hire me', href: getPermalink('/contact#form') }],
 };
@@ -23,6 +22,5 @@ export const footerData = {
     { ariaLabel: 'Bluesky', icon: 'tabler:brand-bluesky', href: 'https://bsky.app/profile/pjmartorell.dev' },
     { ariaLabel: 'Stack Overflow', icon: 'tabler:brand-stackoverflow', href: 'https://stackoverflow.com/users/960819/pere-joan-martorell' },
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
-    { ariaLabel: 'RSS', icon: 'tabler:rss', href: getAsset('/rss.xml') },
   ]
 };
