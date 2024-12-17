@@ -1,12 +1,12 @@
-import { getPermalink, getAsset } from './utils/permalinks';
+import { getPermalink, getAsset, getBlogPermalink } from './utils/permalinks';
 
 export const headerData = {
   links: [
-    { text: 'Home', href: '#' },
-    { text: 'About', href: '#about' },
-    { text: 'Resume', href: '#resume' },
-    { text: 'Porfolio', href: '#porfolio' },
-    { text: 'Blog', href: '#blog' },
+    { text: 'Home', href: '/' },
+    { text: 'About', href: '/#about' },
+    { text: 'Resume', href: '/#resume' },
+    { text: 'Porfolio', href: '/#porfolio' },
+    { text: 'Blog', href: getBlogPermalink() },
   ],
   actions: [{ text: 'Hire me', href: getPermalink('/contact#form') }],
 };

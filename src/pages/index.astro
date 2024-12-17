@@ -9,6 +9,7 @@ import Features2 from '~/components/widgets/Features2.astro';
 import Steps from '~/components/widgets/Steps.astro';
 import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 import { getPermalink } from '~/utils/permalinks';
+import { headerData } from '~/navigation';
 
 const metadata = {
   title: 'Pere Joan Martorell',
@@ -21,23 +22,7 @@ const experienceYears = currentYear - 2014;
 <Layout metadata={metadata}>
   <Fragment slot="announcement"></Fragment>
   <Fragment slot="header">
-    <Header
-      links={[
-        { text: 'Home', href: '#' },
-        { text: 'About', href: '#about' },
-        { text: 'Resume', href: '#resume' },
-        { text: 'Porfolio', href: '#porfolio' },
-        { text: 'Blog', href: '#blog' },
-      ]}
-      actions={[
-        {
-          text: 'Hire me',
-          href: getPermalink('/contact#form'),
-        },
-      ]}
-      isSticky
-      showToggleTheme
-    />
+    <Header {...headerData} isSticky showToggleTheme />
   </Fragment>
 
   <!-- Hero2 Widget ******************* -->
@@ -400,7 +385,7 @@ const experienceYears = currentYear - 2014;
       {
         variant: 'primary',
         text: 'Hire me',
-        href: '/',
+        href: getPermalink('/contact#form'),
       },
     ]}
   />
