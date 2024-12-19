@@ -2,21 +2,9 @@
 import type { Form as Props } from '~/types';
 import Button from '~/components/ui/Button.astro';
 
-const { inputs, textarea, disclaimer, button = 'Contact me', description = '' } = Astro.props;
-
-const handleSubmit = (event) => {
-  event.preventDefault();
-  const form = event.target;
-  const isValid = form.checkValidity();
-  if (isValid) {
-    form.submit();
-  } else {
-    form.reportValidity();
-  }
-};
+const { inputs, textarea, disclaimer, button = 'Contact me', description = '', name } = Astro.props;
 ---
-
-<form netlify onSubmit={handleSubmit}>
+<form data-netlify="true" name={name}>
   {
     inputs &&
       inputs.map(
