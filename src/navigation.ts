@@ -25,6 +25,6 @@ export const footerData = {
       icon: 'tabler:brand-stackoverflow',
       href: 'https://stackoverflow.com/users/960819/pere-joan-martorell',
     },
-    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
+    { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/pjmartorell' },
   ],
 };
