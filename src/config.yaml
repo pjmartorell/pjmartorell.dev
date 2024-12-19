@@ -18,9 +18,9 @@ metadata:
   openGraph:
     site_name: pjmartorell.dev
     images:
-      - url: '~/assets/images/default.png'
-        width: 1200
-        height: 628
+      - url: '~/assets/images/default.webp'
+        width: 3200
+        height: 1799
     type: website
   twitter:
     handle: '@pjmartorell'
