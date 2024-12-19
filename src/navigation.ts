@@ -20,7 +20,11 @@ export const footerData = {
     { ariaLabel: 'LinkedIn', icon: 'tabler:brand-linkedin', href: 'https://linkedin.com/in/pjmartorell' },
     { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: 'https://x.com/pjmartorell' },
     { ariaLabel: 'Bluesky', icon: 'tabler:brand-bluesky', href: 'https://bsky.app/profile/pjmartorell.dev' },
-    { ariaLabel: 'Stack Overflow', icon: 'tabler:brand-stackoverflow', href: 'https://stackoverflow.com/users/960819/pere-joan-martorell' },
+    {
+      ariaLabel: 'Stack Overflow',
+      icon: 'tabler:brand-stackoverflow',
+      href: 'https://stackoverflow.com/users/960819/pere-joan-martorell',
+    },
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: 'https://github.com/onwidget/astrowind' },
-  ]
+  ],
 };
