@@ -11,7 +11,8 @@ metadata:
   title:
     default: pjmartorell.dev
     template: '%s — pjmartorell.dev'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+
+  description: "\U00002666 Ruby on Rails, JavaScript, Docker, Kubernetes, AI and cloud infrastructure. Discover projects, tutorials, and insights on web development and technology."
   robots:
     index: true
     follow: true
