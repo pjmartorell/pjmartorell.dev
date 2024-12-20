@@ -4,6 +4,7 @@ import Button from '~/components/ui/Button.astro';
 
 const { inputs, textarea, disclaimer, button = 'Contact me', description = '', name } = Astro.props;
 ---
+
 <form data-netlify="true" name={name}>
   {
     inputs &&
