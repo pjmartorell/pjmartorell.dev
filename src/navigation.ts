@@ -16,9 +16,8 @@ export const footerData = {
     { text: 'Privacy Policy', href: getPermalink('/privacy') },
   ],
   socialLinks: [
-    { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
     { ariaLabel: 'LinkedIn', icon: 'tabler:brand-linkedin', href: 'https://linkedin.com/in/pjmartorell' },
-    { ariaLabel: 'Twitter', icon: 'tabler:brand-twitter', href: 'https://x.com/pjmartorell' },
+    { ariaLabel: 'X', icon: 'tabler:brand-x', href: 'https://x.com/pjmartorell' },
     { ariaLabel: 'Bluesky', icon: 'tabler:brand-bluesky', href: 'https://bsky.app/profile/pjmartorell.dev' },
     {
       ariaLabel: 'Stack Overflow',
