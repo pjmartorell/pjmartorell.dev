@@ -1,0 +1,69 @@
+<canvas id="lava-lamp-canvas" class="fixed inset-0 -z-10"></canvas>
+
+<script is:inline>
+  const canvas = document.getElementById('lava-lamp-canvas');
+  const ctx = canvas.getContext('2d');
+  let width, height;
+  const blobs = [];
+
+  function resizeCanvas() {
+    width = canvas.width = window.innerWidth;
+    height = canvas.height = window.innerHeight;
+  }
+
+  function createBlob() {
+    return {
+      x: Math.random() * width, // Initial x position
+      y: Math.random() * height, // Initial y position
+      radius: Math.random() * 20, // Radius of the blob
+      dx: (Math.random() - 0.5) * 0.2, // Horizontal speed
+      dy: (Math.random() - 0.5) * 0.2, // Vertical speed
+      angle: Math.random() * Math.PI * 2, // Initial angle for movement
+      speed: Math.random() * 0.25 + 0.25, // Speed of the blob
+      color: Math.random() > 0.5 ? 'rgba(45, 255, 249, 0.2)' : 'rgba(45, 197, 255, 0.2)', // Color of the blob
+    };
+  }
+
+  function updateBlob(blob) {
+    blob.angle += (Math.random() - 0.5) * 0.01; // Slightly change the angle to create a smooth movement
+    blob.x += Math.cos(blob.angle) * blob.speed; // Update x position based on angle and speed
+    blob.y += Math.sin(blob.angle) * blob.speed; // Update y position based on angle and speed
+
+    // Reappear on the opposite side if the blob goes out of bounds
+    if (blob.x - blob.radius < 0) blob.x = width + (blob.x + blob.radius);
+    if (blob.x + blob.radius > width) blob.x = -(blob.x + blob.radius);
+    if (blob.y - blob.radius < 0) blob.y = height + (blob.y + blob.radius);
+    if (blob.y + blob.radius > height) blob.y = -(blob.y + blob.radius);
+  }
+
+  function drawBlob(blob) {
+    const gradient = ctx.createRadialGradient(blob.x, blob.y, blob.radius * 0.1, blob.x, blob.y, blob.radius);
+    gradient.addColorStop(0, blob.color); // Gradient start color
+    gradient.addColorStop(1, 'rgba(0, 0, 0, 0)'); // Gradient end color (transparent)
+
+    ctx.beginPath();
+    ctx.arc(blob.x, blob.y, blob.radius, 0, Math.PI * 2);
+    ctx.fillStyle = gradient;
+    ctx.fill();
+  }
+
+  function animate() {
+    ctx.clearRect(0, 0, width, height); // Clear the canvas
+
+    blobs.forEach((blob) => {
+      updateBlob(blob); // Update blob position
+      drawBlob(blob); // Draw blob
+    });
+
+    requestAnimationFrame(animate); // Request the next frame
+  }
+
+  window.addEventListener('resize', resizeCanvas);
+  resizeCanvas();
+
+  for (let i = 0; i < 20; i++) {
+    blobs.push(createBlob()); // Create initial blobs
+  }
+
+  requestAnimationFrame(animate); // Start the animation
+</script>
