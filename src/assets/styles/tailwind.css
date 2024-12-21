@@ -18,6 +18,29 @@
   .text-muted {
     color: var(--aw-color-text-muted);
   }
+  .gradient-1 {
+    background: linear-gradient(165deg, hsl(213 100% -2% / 1), hsl(234 100% 38% / 1), hsl(303 100% 50% / 1));
+    background-size: 200% 200%;
+    animation: gradient-animation 20s ease infinite;
+  }
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  25% {
+    background-position: 50% 0%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  75% {
+    background-position: 50% 100%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
 
 @layer components {
@@ -26,7 +49,7 @@
   }
 
   .btn-primary {
-    @apply btn font-semibold bg-primary text-white border-primary hover:bg-secondary hover:border-secondary hover:text-white dark:text-white dark:bg-primary dark:border-primary dark:hover:border-secondary dark:hover:bg-secondary;
+    @apply btn font-semibold gradient-1 text-white border-primary hover:bg-secondary hover:border-secondary hover:text-white dark:text-white dark:gradient-1 dark:border-primary dark:hover:border-secondary dark:hover:bg-secondary;
   }
 
   .btn-secondary {
