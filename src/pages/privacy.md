@@ -9,8 +9,8 @@ _Last updated:_ December 20, 2024
 
 This Privacy Policy describes how and why I might access, collect, store, use, and/or share ("**process**") your personal information when you use my services ("**Services**"), including when you:
 
-* Visit my website at [pjmartorell.dev](https://pjmartorell.dev), or any website of mine that links to this Privacy Notice
-* Engage with me in other related ways, including any sales, marketing, or events
+- Visit my website at [pjmartorell.dev](https://pjmartorell.dev), or any website of mine that links to this Privacy Notice
+- Engage with me in other related ways, including any sales, marketing, or events
 
 **Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. I am responsible for making decisions about how your personal information is processed. If you do not agree with my policies and practices, please do not use my Services. If you still have any questions or concerns, please contact me via [pjmartorell.dev/contact](https://pjmartorell.dev/contact)
 
@@ -62,9 +62,9 @@ I collect personal information that you voluntarily provide to me when you expre
 
 **Personal Information Provided by You.** The personal information that I collect depends on the context of your interactions with me and the Services, the choices you make, and the products and features you use. The personal information I collect may include the following:
 
-* email addresses
-* job titles
-* names
+- email addresses
+- job titles
+- names
 
 **Sensitive Information.** I do not process sensitive information.
 
@@ -80,9 +80,9 @@ Like many businesses, I also collect information through cookies and similar tec
 
 The information I collect includes:
 
-* _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information my servers automatically collect when you access or use my Services and which I record in log files. Depending on how you interact with me, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
-* _Device Data._ I collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
-* _Location Data._ I collect location data such as information about your device's location, which can be either precise or imprecise. How much information I collect depends on the type and settings of the device you use to access the Services. For example, I may use GPS and other technologies to collect geolocation data that tells me your current location (based on your IP address). You can opt out of allowing me to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
+- _Log and Usage Data._ Log and usage data is service-related, diagnostic, usage, and performance information my servers automatically collect when you access or use my Services and which I record in log files. Depending on how you interact with me, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
+- _Device Data._ I collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
+- _Location Data._ I collect location data such as information about your device's location, which can be either precise or imprecise. How much information I collect depends on the type and settings of the device you use to access the Services. For example, I may use GPS and other technologies to collect geolocation data that tells me your current location (based on your IP address). You can opt out of allowing me to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
 ### <a name="infouse"></a>2. HOW DO I PROCESS YOUR INFORMATION?
 
@@ -90,11 +90,11 @@ _In Short:_ I process your information to provide, improve, and administer my Se
 
 **I process your personal information for a variety of reasons, depending on how you interact with my Services, including:**
 
-* **To deliver and facilitate delivery of services to the user.** I may process your information to provide you with the requested service.
-* **To respond to user inquiries/offer support to users.** I may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
-* **To enable user-to-user communications.** I may process your information if you choose to use any of my offerings that allow for communication with another user.
-* **To send you marketing and promotional communications.** I may process the personal information you send to me for my marketing purposes, if this is in accordance with your marketing preferences. You can opt out of my marketing emails at any time. For more information, see "[WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)" below.
-* **To save or protect an individual's vital interest.** I may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+- **To deliver and facilitate delivery of services to the user.** I may process your information to provide you with the requested service.
+- **To respond to user inquiries/offer support to users.** I may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
+- **To enable user-to-user communications.** I may process your information if you choose to use any of my offerings that allow for communication with another user.
+- **To send you marketing and promotional communications.** I may process the personal information you send to me for my marketing purposes, if this is in accordance with your marketing preferences. You can opt out of my marketing emails at any time. For more information, see "[WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)" below.
+- **To save or protect an individual's vital interest.** I may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
 ### <a name="legalbases"></a>3. WHAT LEGAL BASES DO I RELY ON TO PROCESS YOUR INFORMATION?
 
@@ -102,12 +102,12 @@ _In Short:_ I only process your personal information when I believe it is necess
 
 The General Data Protection Regulation (GDPR) and UK GDPR require me to explain the valid legal bases I rely on in order to process your personal information. As such, I may rely on the following legal bases to process your personal information:
 
-* **Consent.** I may process your information if you have given me permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#withdrawconsent).
-* **Performance of a Contract.** I may process your personal information when I believe it is necessary to fulfill my contractual obligations to you, including providing my Services or at your request prior to entering into a contract with you.
-* **Legitimate Interests.** I may process your information when I believe it is reasonably necessary to achieve my legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, I may process your personal information for some of the purposes described in order to:
-  * Send users information about special offers and discounts on my products and services
-* **Legal Obligations.** I may process your information where I believe it is necessary for compliance with my legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend my legal rights, or disclose your information as evidence in litigation in which I am involved.
-* **Vital Interests.** I may process your information where I believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+- **Consent.** I may process your information if you have given me permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about [withdrawing your consent](#withdrawconsent).
+- **Performance of a Contract.** I may process your personal information when I believe it is necessary to fulfill my contractual obligations to you, including providing my Services or at your request prior to entering into a contract with you.
+- **Legitimate Interests.** I may process your information when I believe it is reasonably necessary to achieve my legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, I may process your personal information for some of the purposes described in order to:
+  - Send users information about special offers and discounts on my products and services
+- **Legal Obligations.** I may process your information where I believe it is necessary for compliance with my legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend my legal rights, or disclose your information as evidence in litigation in which I am involved.
+- **Vital Interests.** I may process your information where I believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
 ### <a name="whoshare"></a>4. WHEN AND WITH WHOM DO I SHARE YOUR PERSONAL INFORMATION?
 
@@ -117,17 +117,17 @@ _In Short:_ I may share information in specific situations described in this sec
 
 The categories of third parties I may share personal information with are as follows:
 
-* Performance Monitoring Tools
-* Payment Processors
-* Ad Networks
-* AI Platforms
-* Social Networks
-* Communication & Collaboration Tools
+- Performance Monitoring Tools
+- Payment Processors
+- Ad Networks
+- AI Platforms
+- Social Networks
+- Communication & Collaboration Tools
 
 I also may need to share your personal information in the following situations:
 
-* **Business Transfers.** I may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of my business to another company.
-* **Other Users.** When you share personal information (for example, by posting comments, contributions, or other content to the Services) or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within my Services, and view your profile.
+- **Business Transfers.** I may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of my business to another company.
+- **Other Users.** When you share personal information (for example, by posting comments, contributions, or other content to the Services) or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within my Services, and view your profile.
 
 ### <a name="cookies"></a>5. DO I USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
