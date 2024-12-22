@@ -23,6 +23,9 @@
     background-size: 200% 200%;
     animation: gradient-animation 20s ease infinite;
   }
+  .scroll-offset {
+    scroll-margin-top: 92px; /* Adjust this value based on your nav bar height */
+  }
 }
 
 @keyframes gradient-animation {

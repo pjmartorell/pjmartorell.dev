@@ -52,7 +52,7 @@ Want to learn more about what I do with any information I collect? [Review the P
 [12. HOW CAN YOU CONTACT ME ABOUT THIS NOTICE?](#contact)<br>
 [13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA I COLLECT FROM YOU?](#request)
 
-### <a name="infocollect"></a>1. WHAT INFORMATION DO I COLLECT?
+### <a name="infocollect" class="scroll-offset"></a>1. WHAT INFORMATION DO I COLLECT?
 
 **Personal information you disclose to me**
 
@@ -84,7 +84,7 @@ The information I collect includes:
 - _Device Data._ I collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
 - _Location Data._ I collect location data such as information about your device's location, which can be either precise or imprecise. How much information I collect depends on the type and settings of the device you use to access the Services. For example, I may use GPS and other technologies to collect geolocation data that tells me your current location (based on your IP address). You can opt out of allowing me to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
 
-### <a name="infouse"></a>2. HOW DO I PROCESS YOUR INFORMATION?
+### <a name="infouse" class="scroll-offset"></a>2. HOW DO I PROCESS YOUR INFORMATION?
 
 _In Short:_ I process your information to provide, improve, and administer my Services, communicate with you, for security and fraud prevention, and to comply with law. I may also process your information for other purposes with your consent.
 
@@ -96,7 +96,7 @@ _In Short:_ I process your information to provide, improve, and administer my Se
 - **To send you marketing and promotional communications.** I may process the personal information you send to me for my marketing purposes, if this is in accordance with your marketing preferences. You can opt out of my marketing emails at any time. For more information, see "[WHAT ARE YOUR PRIVACY RIGHTS?](#privacyrights)" below.
 - **To save or protect an individual's vital interest.** I may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
 
-### <a name="legalbases"></a>3. WHAT LEGAL BASES DO I RELY ON TO PROCESS YOUR INFORMATION?
+### <a name="legalbases" class="scroll-offset"></a>3. WHAT LEGAL BASES DO I RELY ON TO PROCESS YOUR INFORMATION?
 
 _In Short:_ I only process your personal information when I believe it is necessary and I have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill my contractual obligations, to protect your rights, or to fulfill my legitimate business interests.
 
@@ -109,7 +109,7 @@ The General Data Protection Regulation (GDPR) and UK GDPR require me to explain 
 - **Legal Obligations.** I may process your information where I believe it is necessary for compliance with my legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend my legal rights, or disclose your information as evidence in litigation in which I am involved.
 - **Vital Interests.** I may process your information where I believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
 
-### <a name="whoshare"></a>4. WHEN AND WITH WHOM DO I SHARE YOUR PERSONAL INFORMATION?
+### <a name="whoshare" class="scroll-offset"></a>4. WHEN AND WITH WHOM DO I SHARE YOUR PERSONAL INFORMATION?
 
 _In Short:_ I may share information in specific situations described in this section and/or with the following categories of third parties.
 
@@ -129,7 +129,7 @@ I also may need to share your personal information in the following situations:
 - **Business Transfers.** I may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of my business to another company.
 - **Other Users.** When you share personal information (for example, by posting comments, contributions, or other content to the Services) or otherwise interact with public areas of the Services, such personal information may be viewed by all users and may be publicly made available outside the Services in perpetuity. Similarly, other users will be able to view descriptions of your activity, communicate with you within my Services, and view your profile.
 
-### <a name="cookies"></a>5. DO I USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
+### <a name="cookies" class="scroll-offset"></a>5. DO I USE COOKIES AND OTHER TRACKING TECHNOLOGIES?
 
 _In Short:_ I may use cookies and other tracking technologies to collect and store your information.
 
@@ -143,7 +143,7 @@ Specific information about how I use such technologies and how you can refuse ce
 
 I may share your information with Google Analytics to track and analyze the use of the Services. The Google Analytics Advertising Features that I may use include: Google Analytics Demographics and Interests Reporting. To opt out of being tracked by Google Analytics across the Services, visit [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout). You can opt out of Google Analytics Advertising Features through [Ads Settings](https://adssettings.google.com/) and Ad Settings for mobile apps. Other opt out means include [http://optout.networkadvertising.org/](http://optout.networkadvertising.org/) and [http://www.networkadvertising.org/mobile-choice](http://www.networkadvertising.org/mobile-choice). For more information on the privacy practices of Google, please visit the [Google Privacy & Terms page](https://policies.google.com/privacy).
 
-### <a name="inforetain"></a>6. HOW LONG DO I KEEP YOUR INFORMATION?
+### <a name="inforetain" class="scroll-offset"></a>6. HOW LONG DO I KEEP YOUR INFORMATION?
 
 _In Short:_ I keep your information for as long as necessary to fulfill the purposes outlined in this Privacy Notice unless otherwise required by law.
 
@@ -151,19 +151,19 @@ I will only keep your personal information for as long as it is necessary for th
 
 When I have no ongoing legitimate business need to process your personal information, I will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then I will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-### <a name="infosafe"></a>7. HOW DO I KEEP YOUR INFORMATION SAFE?
+### <a name="infosafe" class="scroll-offset"></a>7. HOW DO I KEEP YOUR INFORMATION SAFE?
 
 _In Short:_ I aim to protect your personal information through a system of organizational and technical security measures.
 
 I have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information I process. However, despite my safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so I cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat my security and improperly collect, access, steal, or modify your information. Although I will do my best to protect your personal information, transmission of personal information to and from my Services is at your own risk. You should only access the Services within a secure environment.
 
-### <a name="infominors"></a>8. DO I COLLECT INFORMATION FROM MINORS?
+### <a name="infominors" class="scroll-offset"></a>8. DO I COLLECT INFORMATION FROM MINORS?
 
 _In Short:_ I do not knowingly collect data from or market to children under 18 years of age.
 
 I do not knowingly collect, solicit data from, or market to children under 18 years of age, nor do I knowingly sell such personal information. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If I learn that personal information from users less than 18 years of age has been collected, I will deactivate the account and take reasonable measures to promptly delete such data from my records. If you become aware of any data I may have collected from children under age 18, please contact me via [pjmartorell.dev/contact](https://pjmartorell.dev/contact)
 
-### <a name="privacyrights"></a>9. WHAT ARE YOUR PRIVACY RIGHTS?
+### <a name="privacyrights" class="scroll-offset"></a>9. WHAT ARE YOUR PRIVACY RIGHTS?
 
 _In Short:_ In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Switzerland, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time, depending on your country, province, or state of residence.
 
@@ -185,20 +185,20 @@ However, please note that this will not affect the lawfulness of the processing 
 
 If you have questions or comments about your privacy rights, you may email me via [pjmartorell.dev/contact](https://pjmartorell.dev/contact)
 
-**10. CONTROLS FOR DO-NOT-TRACK FEATURES**
+### <a name="DNT" class="scroll-offset"></a>10. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage, no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, I do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that I must follow in the future, I will inform you about that practice in a revised version of this Privacy Notice.
 
-### <a name="policyupdates"></a>11. DO I MAKE UPDATES TO THIS NOTICE?
+### <a name="policyupdates" class="scroll-offset"></a>11. DO I MAKE UPDATES TO THIS NOTICE?
 
 _In Short:_ Yes, I will update this notice as necessary to stay compliant with relevant laws.
 
 I may update this Privacy Notice from time to time. The updated version will be indicated by an updated "Revised" date at the top of this Privacy Notice. If I make material changes to this Privacy Notice, I may notify you either by prominently posting a notice of such changes or by directly sending you a notification. I encourage you to review this Privacy Notice frequently to be informed of how I am protecting your information.
 
-### <a name="contact"></a>12. HOW CAN YOU CONTACT ME ABOUT THIS NOTICE?
+### <a name="contact" class="scroll-offset"></a>12. HOW CAN YOU CONTACT ME ABOUT THIS NOTICE?
 
 If you have questions or comments about this notice, please contact me via [pjmartorell.dev/contact](https://pjmartorell.dev/contact)
 
-### <a name="request"></a>13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA I COLLECT FROM YOU?
+### <a name="request" class="scroll-offset"></a>13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA I COLLECT FROM YOU?
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information I collect from you, details about how I have processed it, correct inaccuracies, or delete your personal information. You may also have the right to withdraw your consent to my processing of your personal information. These rights may be limited in some circumstances by applicable law. To request to review, update, or delete your personal information, please visit: [pjmartorell.dev/contact](https://pjmartorell.dev/contact)
